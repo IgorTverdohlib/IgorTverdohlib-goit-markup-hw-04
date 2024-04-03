@@ -175,7 +175,7 @@ ul {
                 to bottom ,
                 rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)), 
-            url(/images/people-office.jpg);
+            url(../images/people-office.jpg);
             max-width: 1440px;
             background-repeat: no-repeat;
             background-position: center;
@@ -382,15 +382,7 @@ font-family: "Roboto", sans-serif;
                             justify-content: center;
                             transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
                 }
-                .our-time-icon{
-              
-                    background-color: #4d5ae5;
-                    border-radius: 50%;
-                    display: flex;
-                    align-items: center;
-                    justify-content: center;
-                    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-                }
+            
  .our-time-list-title {
      font-family: "Roboto", sans-serif;
      font-weight: 500;
